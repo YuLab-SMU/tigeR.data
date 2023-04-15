@@ -1,287 +1,144 @@
-#' @title GBM_PRJNA482620_exp
+#' @title GBM_PRJNA482620
+#' @description an SummarizedExperiment
+#' @name GBM_PRJNA482620
+#' @docType data
+#' @format S4
+#' @source public data set
+NULL
+
+#' @title HNSC_GSE93157
 #' @description an expression matrix
-#' @name GBM_PRJNA482620_exp
+#' @name HNSC_GSE93157
+#' @docType data
+#' @format S4
+#' @source public data set
+NULL
+
+#' @title LGG_E_MTAB_6270
+#' @description an expression matrix
+#' @name LGG_E_MTAB_6270
+#' @docType data
+#' @format S4
+#' @source public data set
+NULL
+
+#' @title MEL_GSE91061
+#' @description an expression matrix
+#' @name MEL_GSE91061
 #' @docType data
 #' @format matrix
 #' @source public data set
 NULL
 
-#' @title GBM_PRJNA482620_meta
-#' @description meta info
-#' @name GBM_PRJNA482620_meta
-#' @docType data
-#' @format dataframe
-#' @source public data set
-NULL
-
-#' @title HNSC_GSE93157_exp
+#' @title MEL_GSE93157
 #' @description an expression matrix
-#' @name HNSC_GSE93157_exp
+#' @name MEL_GSE93157
 #' @docType data
-#' @format matrix
+#' @format S4
 #' @source public data set
 NULL
 
-#' @title HNSC_GSE93157_meta
-#' @description meta info
-#' @name HNSC_GSE93157_meta
-#' @docType data
-#' @format dataframe
-#' @source public data set
-NULL
-
-#' @title LGG_E_MTAB_6270_exp
+#' @title MEL_GSE96619
 #' @description an expression matrix
-#' @name LGG_E_MTAB_6270_exp
+#' @name MEL_GSE96619
 #' @docType data
-#' @format matrix
+#' @format S4
 #' @source public data set
 NULL
 
-#' @title LGG_E_MTAB_6270_meta
-#' @description meta info
-#' @name LGG_E_MTAB_6270_meta
-#' @docType data
-#' @format dataframe
-#' @source public data set
-NULL
-
-#' @title MEL_GSE91061_exp
+#' @title MEL_GSE100797
 #' @description an expression matrix
-#' @name MEL_GSE91061_exp
+#' @name MEL_GSE100797
 #' @docType data
-#' @format matrix
+#' @format S4
 #' @source public data set
 NULL
 
-#' @title MEL_GSE91061_meta
-#' @description meta info
-#' @name MEL_GSE91061_meta
-#' @docType data
-#' @format dataframe
-#' @source public data set
-NULL
-
-#' @title MEL_GSE93157_exp
+#' @title MEL_GSE106128
 #' @description an expression matrix
-#' @name MEL_GSE93157_exp
+#' @name MEL_GSE106128
 #' @docType data
-#' @format matrix
+#' @format S4
 #' @source public data set
 NULL
 
-#' @title MEL_GSE93157_meta
-#' @description meta info
-#' @name MEL_GSE93157_meta
-#' @docType data
-#' @format dataframe
-#' @source public data set
-NULL
-
-#' @title MEL_GSE96619_exp
+#' @title MEL_GSE115821
 #' @description an expression matrix
-#' @name MEL_GSE96619_exp
+#' @name MEL_GSE115821
 #' @docType data
-#' @format matrix
+#' @format S4
 #' @source public data set
 NULL
 
-#' @title MEL_GSE96619_meta
-#' @description meta info
-#' @name MEL_GSE96619_meta
-#' @docType data
-#' @format dataframe
-#' @source public data set
-NULL
-
-#' @title MEL_GSE100797_exp
+#' @title MEL_GSE145996
 #' @description an expression matrix
-#' @name MEL_GSE100797_exp
+#' @name MEL_GSE145996
 #' @docType data
-#' @format matrix
+#' @format S4
 #' @source public data set
 NULL
 
-#' @title MEL_GSE100797_meta
-#' @description meta info
-#' @name MEL_GSE100797_meta
-#' @docType data
-#' @format dataframe
-#' @source public data set
-NULL
-
-#' @title MEL_GSE106128_exp
+#' @title MEL_Nathanson_2017
 #' @description an expression matrix
-#' @name MEL_GSE106128_exp
+#' @name MEL_Nathanson_2017
 #' @docType data
-#' @format matrix
+#' @format S4
 #' @source public data set
 NULL
 
-#' @title MEL_GSE106128_meta
-#' @description meta info
-#' @name MEL_GSE106128_meta
-#' @docType data
-#' @format dataframe
-#' @source public data set
-NULL
-
-#' @title MEL_GSE115821_exp
+#' @title MEL_phs000452
 #' @description an expression matrix
-#' @name MEL_GSE115821_exp
+#' @name MEL_phs000452
 #' @docType data
-#' @format matrix
+#' @format S4
 #' @source public data set
 NULL
 
-#' @title MEL_GSE115821_meta
-#' @description meta info
-#' @name MEL_GSE115821_meta
-#' @docType data
-#' @format dataframe
-#' @source public data set
-NULL
-
-#' @title MEL_GSE145996_exp
+#' @title nonsqNSCLC_GSE93157
 #' @description an expression matrix
-#' @name MEL_GSE145996_exp
+#' @name nonsqNSCLC_GSE93157
 #' @docType data
-#' @format matrix
+#' @format S4
 #' @source public data set
 NULL
 
-#' @title MEL_GSE145996_meta
-#' @description meta info
-#' @name MEL_GSE145996_meta
-#' @docType data
-#' @format dataframe
-#' @source public data set
-NULL
-
-#' @title MEL_Nathanson_2017_exp
+#' @title NSCLC_GSE126044
 #' @description an expression matrix
-#' @name MEL_Nathanson_2017_exp
+#' @name NSCLC_GSE126044
 #' @docType data
-#' @format matrix
+#' @format S4
 #' @source public data set
 NULL
 
-#' @title MEL_Nathanson_2017_meta
-#' @description meta info
-#' @name MEL_Nathanson_2017_meta
-#' @docType data
-#' @format dataframe
-#' @source public data set
-NULL
-
-#' @title MEL_phs000452_exp
+#' @title NSCLC_GSE135222
 #' @description an expression matrix
-#' @name MEL_phs000452_exp
+#' @name NSCLC_GSE135222
 #' @docType data
-#' @format matrix
+#' @format S4
 #' @source public data set
 NULL
 
-#' @title MEL_phs000452_meta
-#' @description meta info
-#' @name MEL_phs000452_meta
-#' @docType data
-#' @format dataframe
-#' @source public data set
-NULL
-
-#' @title nonsqNSCLC_GSE93157_exp
+#' @title RCC_Braun_2020
 #' @description an expression matrix
-#' @name nonsqNSCLC_GSE93157_exp
+#' @name RCC_Braun_2020
 #' @docType data
-#' @format matrix
+#' @format S4
 #' @source public data set
 NULL
 
-#' @title nonsqNSCLC_GSE93157_meta
-#' @description meta info
-#' @name nonsqNSCLC_GSE93157_meta
-#' @docType data
-#' @format dataframe
-#' @source public data set
-NULL
-
-#' @title NSCLC_GSE126044_exp
+#' @title RCC_GSE67501
 #' @description an expression matrix
-#' @name NSCLC_GSE126044_exp
+#' @name RCC_GSE67501
 #' @docType data
-#' @format matrix
+#' @format S4
 #' @source public data set
 NULL
 
-#' @title NSCLC_GSE126044_meta
-#' @description meta info
-#' @name NSCLC_GSE126044_meta
-#' @docType data
-#' @format dataframe
-#' @source public data set
-NULL
-
-#' @title NSCLC_GSE135222_exp
+#' @title STAD_PRJEB25780
 #' @description an expression matrix
-#' @name NSCLC_GSE135222_exp
+#' @name STAD_PRJEB25780
 #' @docType data
-#' @format matrix
+#' @format S4
 #' @source public data set
 NULL
 
-#' @title NSCLC_GSE135222_meta
-#' @description meta info
-#' @name NSCLC_GSE135222_meta
-#' @docType data
-#' @format dataframe
-#' @source public data set
-NULL
-
-#' @title RCC_Braun_2020_exp
-#' @description an expression matrix
-#' @name RCC_Braun_2020_exp
-#' @docType data
-#' @format matrix
-#' @source public data set
-NULL
-
-#' @title RCC_Braun_2020_meta
-#' @description meta info
-#' @name RCC_Braun_2020_meta
-#' @docType data
-#' @format dataframe
-#' @source public data set
-NULL
-
-#' @title RCC_GSE67501_exp
-#' @description an expression matrix
-#' @name RCC_GSE67501_exp
-#' @docType data
-#' @format matrix
-#' @source public data set
-NULL
-
-#' @title RCC_GSE67501_meta
-#' @description meta info
-#' @name RCC_GSE67501_meta
-#' @docType data
-#' @format dataframe
-#' @source public data set
-NULL
-
-#' @title STAD_PRJEB25780_exp
-#' @description an expression matrix
-#' @name STAD_PRJEB25780_exp
-#' @docType data
-#' @format matrix
-#' @source public data set
-NULL
-
-#' @title STAD_PRJEB25780_meta
-#' @description meta info
-#' @name STAD_PRJEB25780_meta
-#' @docType data
-#' @format dataframe
-#' @source public data set
-NULL
