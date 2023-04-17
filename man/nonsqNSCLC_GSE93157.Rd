@@ -11,5 +11,5 @@ S4
 public data set
 }
 \description{
-an expression matrix
+An SummarizedExperiment object contains expression matrix and clinical information of Nonsmall-cell lung cancer patients in GSE93157 data set.
 }

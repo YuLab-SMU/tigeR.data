@@ -11,5 +11,5 @@ S4
 public data set
 }
 \description{
-an SummarizedExperiment
+An SummarizedExperiment object contains expression matrix and clinical information of Glioblastoma patients in PRJNA482620 data set.
 }

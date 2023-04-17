@@ -11,5 +11,5 @@ S4
 public data set
 }
 \description{
-an expression matrix
+An SummarizedExperiment object contains expression matrix and clinical information of Stomach adenocarcinoma patients in PRJEB25780 data set.
 }

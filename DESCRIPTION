@@ -1,4 +1,4 @@
-Package: tigeR
+Package: tigeR.data
 Type: Package
 Title: Tumor Immunotherapy Gene Expression Resource
 Version: 0.1.0

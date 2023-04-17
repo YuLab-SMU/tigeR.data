@@ -11,5 +11,5 @@ S4
 public data set
 }
 \description{
-an expression matrix
+An SummarizedExperiment object contains expression matrix and clinical information of Brain Lower Grade Glioma patients in E-MTAB-6270 data set.
 }

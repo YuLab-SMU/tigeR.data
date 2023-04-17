@@ -11,5 +11,5 @@ S4
 public data set
 }
 \description{
-an expression matrix
+An SummarizedExperiment object contains expression matrix and clinical information of Renal cell carcinoma patients in GSE67501 data set.
 }
