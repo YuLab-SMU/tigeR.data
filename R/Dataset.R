@@ -1,3 +1,20 @@
+#' @title MEL_PRJEB23709
+#' @description An SummarizedExperiment object contains expression matrix and clinical information of Glioblastoma patients in PRJNA482620 data set.
+#' @name MEL_PRJEB23709
+#' @docType data
+#' @format S4
+#' @source public data set
+#' @import SummarizedExperiment
+NULL
+
+#' @title MEL_GSE78220
+#' @description An SummarizedExperiment object contains expression matrix and clinical information of Glioblastoma patients in PRJNA482620 data set.
+#' @name MEL_GSE78220
+#' @docType data
+#' @format S4
+#' @source public data set
+NULL
+
 #' @title GBM_PRJNA482620
 #' @description An SummarizedExperiment object contains expression matrix and clinical information of Glioblastoma patients in PRJNA482620 data set.
 #' @name GBM_PRJNA482620
